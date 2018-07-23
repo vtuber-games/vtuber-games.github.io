@@ -32,7 +32,7 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="2.7812867"
-     inkscape:cx="96.312184"
+     inkscape:cx="36.268032"
      inkscape:cy="55.38897"
      inkscape:window-x="663"
      inkscape:window-y="29"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="" />
       </cc:Work>
@@ -243,7 +243,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';fill:#fa4646;fill-opacity:1;stroke-width:0.34658098">開発中</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109335px;line-height:1.25;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.26458001"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109335px;line-height:1.25;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#969696;fill-opacity:1;stroke:none;stroke-width:0.26458001;"
      x="11.742805"
      y="36.610226"
      id="text904"><tspan
@@ -251,10 +251,10 @@
        id="tspan902"
        x="11.742805"
        y="36.610226"
-       style="font-size:2.11664009px;fill:#c8c8c8;fill-opacity:1;stroke-width:0.26458001">そーぽす@sopos_lycaon</tspan><tspan
+       style="font-size:2.11664009px;fill:#969696;fill-opacity:1;stroke-width:0.26458001;">そーぽす@sopos_lycaon</tspan><tspan
        sodipodi:role="line"
        x="11.742805"
        y="38.548412"
-       style="fill:#c8c8c8;fill-opacity:1;stroke-width:0.26458001"
+       style="fill:#969696;fill-opacity:1;stroke-width:0.26458001;"
        id="tspan908" /></text>
 </svg>
