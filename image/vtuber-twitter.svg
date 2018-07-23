@@ -9,13 +9,16 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 31.7496 15.8748"
-   height="60"
-   width="120"
-   sodipodi:docname="vtuber-logo.svg"
-   inkscape:version="0.92.1 r15371">
+   viewBox="0 0 39.687 39.687"
+   height="150"
+   width="150"
+   sodipodi:docname="vtuber-twitter.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="C:\Project\GitHub\vtuber-games.github.io\image\vtuber-twitter.png"
+   inkscape:export-xdpi="921.59998"
+   inkscape:export-ydpi="921.59998">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#969664"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -23,18 +26,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1144"
+     inkscape:window-width="1141"
      inkscape:window-height="848"
      id="namedview14"
      showgrid="false"
      showguides="true"
      inkscape:zoom="2.7812867"
-     inkscape:cx="41.575938"
-     inkscape:cy="-9.7970509"
-     inkscape:window-x="660"
+     inkscape:cx="96.312184"
+     inkscape:cy="55.38897"
+     inkscape:window-x="663"
      inkscape:window-y="29"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     fit-margin-top="10"
+     fit-margin-bottom="10"
+     fit-margin-right="10"
+     fit-margin-left="10" />
   <defs
      id="defs2">
     <inkscape:perspective
@@ -59,8 +66,16 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     id="rect31"
+     width="39.687"
+     height="39.687"
+     x="-1.3877788e-017"
+     y="0.00050071528"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.33072498"
+     ry="0" />
   <g
-     transform="translate(-10.583366,-269.2189)"
+     transform="matrix(1.2999836,0,0,1.2999836,-14.551898,-349.57222)"
      id="layer1">
     <g
        id="text3709"
@@ -108,7 +123,7 @@
   </g>
   <g
      aria-label="GAME.DEV.PROJ "
-     transform="matrix(1.0490182,0,0,0.9532723,4.3831e-8,-0.66145503)"
+     transform="matrix(1.3637066,0,0,1.2392383,-0.79369419,-0.39663239)"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.71711683px;line-height:1.25;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06792793"
      id="text18">
     <g
@@ -183,4 +198,63 @@
          inkscape:connector-curvature="0" />
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.62107944px;line-height:1.25;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34658098"
+     x="2.6412835"
+     y="25.686733"
+     id="text842"
+     transform="scale(1.0000014,0.99999861)"><tspan
+       sodipodi:role="line"
+       id="tspan840"
+       x="2.6412835"
+       y="25.686733"
+       style="font-size:2.77264786px;stroke-width:0.34658098"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.69686365px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';fill:#3264c8;fill-opacity:1;stroke-width:0.34658098"
+         id="tspan854">Vtuber</tspan><tspan
+         style="font-size:1.84843183px;fill:#009600;fill-opacity:1;stroke-width:0.34658098"
+         id="tspan846">さん</tspan><tspan
+         style="font-size:1.84843183px;fill:#009600;fill-opacity:1;stroke-width:0.34658098"
+         id="tspan900">を</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="2.6412835"
+       y="31.463083"
+       style="font-size:2.77264786px;stroke-width:0.34658098"
+       id="tspan844"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.62107944px;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';fill:#3264c8;fill-opacity:1;stroke-width:0.34658098"
+         id="tspan852"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';fill:#fa4646;fill-opacity:1;stroke-width:0.34658098"
+           id="tspan892">ゲーム</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';fill:#ffaa00;fill-opacity:1;stroke-width:0.34658098"
+           id="tspan894">化</tspan></tspan><tspan
+         style="fill:#009600;fill-opacity:1;stroke-width:0.34658098"
+         id="tspan898">したいだけ</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.62107944px;line-height:1.25;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#fa4646;fill-opacity:1;stroke:none;stroke-width:0.34658098"
+     x="19.191525"
+     y="30.602549"
+     id="text860"
+     transform="matrix(0.98793606,-0.15487068,0.1548711,0.98793338,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan858"
+       x="19.191525"
+       y="30.602549"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Meiryo;-inkscape-font-specification:'Meiryo Bold';fill:#fa4646;fill-opacity:1;stroke-width:0.34658098">開発中</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41109335px;line-height:1.25;font-family:Meiryo;-inkscape-font-specification:Meiryo;letter-spacing:0px;word-spacing:0px;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.26458001"
+     x="11.742805"
+     y="36.610226"
+     id="text904"><tspan
+       sodipodi:role="line"
+       id="tspan902"
+       x="11.742805"
+       y="36.610226"
+       style="font-size:2.11664009px;fill:#c8c8c8;fill-opacity:1;stroke-width:0.26458001">そーぽす@sopos_lycaon</tspan><tspan
+       sodipodi:role="line"
+       x="11.742805"
+       y="38.548412"
+       style="fill:#c8c8c8;fill-opacity:1;stroke-width:0.26458001"
+       id="tspan908" /></text>
 </svg>
